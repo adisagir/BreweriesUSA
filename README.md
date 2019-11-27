@@ -12,7 +12,7 @@ This web application allows users to sign-up, log in and browse breweries in the
 ## Features
 
 ### Create Profile
-To use Breweries USA a user must create a log in. By clicking on "SIGNUP" users can enter their, Name, Username, Password and Avatar.
+To use Breweries USA a user must create a log in. By clicking on "SIGNUP" users can enter their, Name, Username, Password and Avatar.<br>
 <img src="https://media.giphy.com/media/Ur2R3qhwlnBayipXd2/giphy.gif" alt="customize" width="700"/>
 
 ### Log In
