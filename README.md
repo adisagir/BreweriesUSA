@@ -1,7 +1,7 @@
 # Breweries USA README
 
 ## Description
-This web application allows users to sign-up, log in and browse breweries in the United States by state and type. Users can filter breweries by state, type, or both. Finally, users can leave reviews for breweries visted by writing a comment and selecting a rating (out of 6).
+This web application allows users to sign-up, log in and browse breweries in the United States by state and type. Users can filter breweries by state, type, or both. Finally, users can leave reviews for breweries visited by writing a comment and selecting a rating (out of 6).
 
 ## Technologies Used
 - ReactJS
